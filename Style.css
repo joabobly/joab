@@ -20,6 +20,10 @@ nav{
     align-items: center;
     justify-content: space-between;
 }
+nav img{
+    height: 150px;
+    width: 120px;
+}
 nav ul li{
     display: inline-block;
     list-style: none;
